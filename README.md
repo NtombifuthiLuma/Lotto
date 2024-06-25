@@ -30,6 +30,7 @@ Running the Unit Tests
 5. Dependencies
 
 This app does not have any external dependencies beyond Python's built-in libraries.
+
 6. Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
